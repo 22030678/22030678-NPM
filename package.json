@@ -1,0 +1,17 @@
+{
+  "name": "practica-npm-lorena",
+  "version": "1.0.0",
+  "description": "my first practice of npm",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start:dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lorena Lizeth Ortiz Quezada",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
+
